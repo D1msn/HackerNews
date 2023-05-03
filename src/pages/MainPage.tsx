@@ -1,5 +1,4 @@
 import React from 'react'
-import '../App.css'
 import { Box, Button, Container } from '@mui/material'
 import { StoryItem } from '../components/StoryItem'
 import { LoaderFullScreen } from '../components/LoaderFullScreen'

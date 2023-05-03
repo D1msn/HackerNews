@@ -1,5 +1,4 @@
 import React from 'react'
-import '../App.css'
 import {useNavigate, useParams} from 'react-router-dom'
 import {StoryDetail} from '../types'
 import {CommentItem} from '../components/Comments/CommentItem'
