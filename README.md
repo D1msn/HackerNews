@@ -2,7 +2,7 @@
 Start project
 1) Copy repository
 2) install packages (yarn or npm i)
-3) start project (yarn vite or npm start vite)
+3) start project (yarn vite --port 3000 or npm start vite --port 3000)
 4) open browser in localhost:3000
 
 
