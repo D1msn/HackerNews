@@ -6,4 +6,4 @@ Start project
 4) open browser in localhost:3000
 
 
-### Check live demo: **
+### Check live demo: http://d1ms.ru:5173/
